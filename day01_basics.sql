@@ -3,7 +3,6 @@ Day 01: Table Creation, Data Manipulation & Querying
 Author: Deep
 ==========================================
 
-
 1. CREATE TABLE: Build the structure
 
 CREATE TABLE emp
@@ -14,7 +13,7 @@ CREATE TABLE emp
     "emp_dept" VARCHAR(50),
     "salary" NUMERIC
 );
--- ==========================================
+==========================================
 
 2. INSERT: Add records into the table
 
@@ -27,14 +26,14 @@ VALUES
 (4, 'lee', 25, 'Loan', 22000),
 (5, 'austin', 21, 'Audit', 180000),
 (6, 'Brace', 20, 'MIS', 15000);
--- ==========================================
+==========================================
 
 3. UPDATE: Modify an existing record (Always use WHERE!)
 
 UPDATE emp
 SET "emp_Name" = 'Brux'
 WHERE "emp_Id" = 6;
--- ==========================================
+==========================================
 
 4. DELETE: Remove a specific record (Always use WHERE!)
 
