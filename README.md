@@ -29,16 +29,16 @@ My main goals throughout this journey are to:
 Here is my SQL learning progress:
 
 #	Topic	Status
-01	SQL Basics	🟡 In Progress
-02	Filtering & Sorting	⏳ Upcoming
-03	Aggregate Functions	⏳ Upcoming
-04	GROUP BY & HAVING	⏳ Upcoming
-05	SQL Joins	⏳ Upcoming
-06	Subqueries	⏳ Upcoming
-07	Window Functions	⏳ Upcoming
-08	Common Table Expressions (CTEs)	⏳ Upcoming
-09	SQL Case Studies	⏳ Upcoming
-10	SQL Projects	⏳ Upcoming
+01	SQL Basics	                🟢 Completed
+02	Filtering & Sorting	        🟢 Completed
+03	Aggregate Functions	        🟢 Completed
+04	GROUP BY & HAVING	          🟡 In Progress
+05	SQL Joins	                  ⏳ Upcoming
+06	Subqueries	                ⏳ Upcoming
+07	Window Functions	          ⏳ Upcoming
+08	Common Table Expressions (CTEs)      ⏳ Upcoming
+09	SQL Case Studies	          ⏳ Upcoming
+10	SQL Projects	              ⏳ Upcoming
 ---------------------------------------------------------------------------------------------------------------------------------------
 Legend:
 
